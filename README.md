@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+
+Actually students at 42 Paris, this github pages will follow my code's progression and will contain all my projects. (42's projects and other).
+Have fun !
 <!--
 **Pandemonium07/Pandemonium07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
