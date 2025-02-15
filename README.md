@@ -1,4 +1,4 @@
-## 🦠🛡️ Cybersecurity Enthusiast | CTF Player | 42 Paris Student 🛡️🦠
+### 🦠🛡️ Cybersecurity Enthusiast | CTF Player | 42 Paris Student 🛡️🦠
 
 Aspiring cybersecurity professional with a strong focus on offensive security, penetration testing, and vulnerability research. Currently studying at 42 Paris, I continuously develop my skills through Capture The Flag (CTF) competitions, security challenges, and hands-on projects.
 
