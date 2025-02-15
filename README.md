@@ -1,15 +1,11 @@
-## Hi there 👋
+## 🦠🛡️ Cybersecurity Enthusiast | CTF Player | 42 Paris Student 🛡️🦠
 
+Aspiring cybersecurity professional with a strong focus on offensive security, penetration testing, and vulnerability research. Currently studying at 42 Paris, I continuously develop my skills through Capture The Flag (CTF) competitions, security challenges, and hands-on projects.
 
-🦠🛡️ Cybersecurity Enthusiast | CTF Player | 42 Paris Student 🛡️🦠
+🔹 Expertise: Web security, reverse engineering, cryptography, and system exploitation.
+🔹 Hands-on experience: Passionate about identifying and mitigating security vulnerabilities through practical challenges.
+🔹 Continuous learning: Always improving my knowledge in ethical hacking, malware analysis, and secure coding practices.
 
-Hi! I'm a cybersecurity enthusiast and a student at 42 Paris, constantly honing my skills in ethical hacking, penetration testing, and system security.
-I thrive on Capture The Flag (CTF) challenges, where I explore vulnerabilities, exploit misconfigurations, and deepen my understanding of real-world cybersecurity threats.
+I am actively seeking internship opportunities in cybersecurity to apply my skills in a professional environment and collaborate with industry experts.
 
-🔹 Passionate about offensive security: I enjoy breaking things (ethically!) to understand how they work and how to secure them.
-🔹 Hands-on learner: I believe in learning by doing, whether it's through CTFs, labs, or personal projects.
-🔹 Always improving: I'm currently developing my skills in reverse engineering, web security, and cryptography.
-
-💡 Looking for internship opportunities where I can apply my knowledge, collaborate with experts, and continue growing in the field of cybersecurity.
-
-📫 Let's connect! Feel free to reach out if you're interested in discussing cybersecurity, CTFs, or potential opportunities.
+📫 Let's connect! Feel free to reach out for discussions on cybersecurity, CTFs, or potential collaborations.
