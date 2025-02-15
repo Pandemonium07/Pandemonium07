@@ -1,21 +1,15 @@
 ## Hi there 👋
 
 
+🦠🛡️ Cybersecurity Enthusiast | CTF Player | 42 Paris Student 🛡️🦠
 
+Hi! I'm a cybersecurity enthusiast and a student at 42 Paris, constantly honing my skills in ethical hacking, penetration testing, and system security.
+I thrive on Capture The Flag (CTF) challenges, where I explore vulnerabilities, exploit misconfigurations, and deepen my understanding of real-world cybersecurity threats.
 
-Actually students at 42 Paris, this github pages will follow my code's progression and will contain all my projects. (42's projects and other).
-Have fun !
-<!--
-**Pandemonium07/Pandemonium07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about offensive security: I enjoy breaking things (ethically!) to understand how they work and how to secure them.
+🔹 Hands-on learner: I believe in learning by doing, whether it's through CTFs, labs, or personal projects.
+🔹 Always improving: I'm currently developing my skills in reverse engineering, web security, and cryptography.
 
-Here are some ideas to get you started:
+💡 Looking for internship opportunities where I can apply my knowledge, collaborate with experts, and continue growing in the field of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect! Feel free to reach out if you're interested in discussing cybersecurity, CTFs, or potential opportunities.
