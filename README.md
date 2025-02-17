@@ -8,4 +8,5 @@ Aspiring cybersecurity professional with a strong focus on offensive security, p
 
 I am actively seeking internship opportunities in cybersecurity to apply my skills in a professional environment and collaborate with industry experts.
 
+
 📫 lorenzoflayeuxpro@outlook.fr 📫 Let's connect! Feel free to reach out for discussions on cybersecurity, CTFs, or potential collaborations.
